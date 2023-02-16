@@ -1,4 +1,5 @@
 import './App.css';
+import React from 'react';
 // eslint-disable-next-line import/extensions
 import Calculator from './components/calculator.jsx';
 

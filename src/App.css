@@ -25,16 +25,16 @@ main {
 }
 
 main .calculator-input {
-  width: 96%;
+  width: 97%;
   height: 10vh;
   border: none;
   outline: none;
   text-align: right;
   direction: rtl;
-  padding: 10px;
   background-color: rgba(0, 0, 0, 0.26);
   color: white;
   font-size: large;
+  padding-right: 3%;
 }
 
 main .calculator-input::placeholder {
@@ -44,7 +44,7 @@ main .calculator-input::placeholder {
 }
 
 main .buttons-container button {
-  font-size: 16px;
+  font-size: 18px;
   border: 1px solid rgba(169, 169, 169, 0.561);
 }
 
