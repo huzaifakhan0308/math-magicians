@@ -85,6 +85,6 @@ Thanks Microverse, learn how to code > [Join Microverse](https://www.microverse.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) Licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
