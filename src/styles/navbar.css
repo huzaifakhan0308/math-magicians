@@ -1,0 +1,32 @@
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 10vh;
+  width: 100%;
+  border: 2px solid rgb(0, 0, 0);
+}
+
+nav header {
+  font-size: xx-large;
+  font-weight: bolder;
+  margin-left: 5vh;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 25%;
+  margin-right: 5vh;
+  list-style: none;
+}
+
+nav ul li {
+  /* border: 2px solid red; */
+}
+
+nav ul li:hover {
+  /* border: 2px solid red; */
+}

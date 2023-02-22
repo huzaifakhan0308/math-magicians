@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import Calculate from '../logic/calculate';
+import '../styles/calculator.css';
 
 export default function Calculator() {
   const [value, setValue] = useState('');
@@ -50,8 +51,8 @@ export default function Calculator() {
     }
   }
   return (
-    <div>
-      <header>Simple Calculator</header>
+    <div className="calculator-page-container">
+      <header className="calculator-header">Simple Calculator</header>
       <main>
         <input className="calculator-input" type="text" placeholder="0" value={value} onChange={cal} />
         <div className="buttons-container">

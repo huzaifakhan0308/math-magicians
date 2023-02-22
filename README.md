@@ -24,7 +24,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-HTML | SCSS | JS | ES6 | Webpack
+HTML | CSS | JS | ES6 | React
 
 ### Key Features <a name="key-features"></a>
 

@@ -1,0 +1,23 @@
+.home-page-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+
+.home-header {
+  display: flex;
+  justify-self: flex-start;
+  font-size: 40px;
+  font-weight: bolder;
+  margin-top: 5vh;
+}
+
+.home-p {
+  margin-top: 10vh;
+  width: 90%;
+}
+
+.home-p p {
+  font-size: large;
+}
