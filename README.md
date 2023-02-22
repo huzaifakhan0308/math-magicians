@@ -80,6 +80,7 @@ To run the project, run `npm start` to run the project
 - Twitter: [@Kalkida01088197](https://twitter.com/Kalkida01088197)
 - LinkedIn: [Kalkidan Daniel](https://www.linkedin.com/in/kalkidan-daniel-b2a204238/)
 
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Feel free to check [issues page](https://github.com/huzaifakhan0308/math-magicians/issues).
