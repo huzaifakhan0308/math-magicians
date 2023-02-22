@@ -4,11 +4,17 @@
 }
 
 body {
-  display: flex;
-  justify-content: center;
+  width: 100%;
 }
 
-header {
+.calculator-page-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.calculator-header {
   display: flex;
   justify-self: flex-start;
   font-size: 40px;
@@ -21,7 +27,7 @@ main {
   flex-wrap: wrap;
   width: 56vh;
   overflow: hidden;
-  margin-top: 13vh;
+  margin-top: 10vh;
 }
 
 main .calculator-input {
