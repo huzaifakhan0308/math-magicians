@@ -1,0 +1,224 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components calculator.jsx should render correctly 1`] = `
+<div
+  className="calculator-page-container"
+>
+  <header
+    className="calculator-header"
+  >
+    Simple Calculator
+  </header>
+  <main>
+    <input
+      className="calculator-input"
+      onChange={[Function]}
+      placeholder="0"
+      type="text"
+      value=""
+    />
+    <div
+      className="buttons-container"
+    >
+      <button
+        className="buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        AC
+      </button>
+      <button
+        className="buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        +/-
+      </button>
+      <button
+        className="buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        %
+      </button>
+      <button
+        className="buttons orange-btn"
+        onClick={[Function]}
+        type="button"
+      >
+        ÷
+      </button>
+      <button
+        className="buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        7
+      </button>
+      <button
+        className="buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        8
+      </button>
+      <button
+        className="buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        9
+      </button>
+      <button
+        className="buttons orange-btn"
+        onClick={[Function]}
+        type="button"
+      >
+        x
+      </button>
+      <button
+        className="buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        4
+      </button>
+      <button
+        className="buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        5
+      </button>
+      <button
+        className="buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        6
+      </button>
+      <button
+        className="buttons orange-btn"
+        onClick={[Function]}
+        type="button"
+      >
+        -
+      </button>
+      <button
+        className="buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        1
+      </button>
+      <button
+        className="buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        2
+      </button>
+      <button
+        className="buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        3
+      </button>
+      <button
+        className="buttons orange-btn"
+        onClick={[Function]}
+        type="button"
+      >
+        +
+      </button>
+      <button
+        className="button-0"
+        onClick={[Function]}
+        type="button"
+      >
+        0
+      </button>
+      <button
+        className="buttons"
+        onClick={[Function]}
+        type="button"
+      >
+        .
+      </button>
+      <button
+        className="buttons orange-btn"
+        onClick={[Function]}
+        type="button"
+      >
+        =
+      </button>
+    </div>
+  </main>
+</div>
+`;
+
+exports[`components home.jsx should render correctly 1`] = `
+<div
+  className="home-page-container"
+>
+  <header
+    className="home-header"
+  >
+    Welcome to our page
+  </header>
+  <div
+    className="home-p"
+  >
+    <p>
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab libero deleniti neque? Asperiores, molestiae at ducimus quidem dignissimos, possimus distinctio rem nam consectetur dolores corporis voluptates libero ad vero! Enim accusamus in laudantium quod ducimus est porro voluptates sunt provident praesentium asperiores sed soluta cum nesciunt eius, blanditiis quaerat tempora quidem,adipisci fuga laboriosam amet, necessitatibus perferendis. Deleniti, iste quod.
+    </p>
+    <br />
+    <p>
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab libero deleniti neque? Asperiores, molestiae at ducimus quidem dignissimos, possimus distinctio rem nam consectetur dolores corporis voluptates libero ad vero! Enim accusamus in laudantium quod ducimus est porro voluptates sunt provident praesentium asperiores sed soluta cum nesciunt eius.
+    </p>
+  </div>
+</div>
+`;
+
+exports[`components navbar.jsx should render correctly 1`] = `
+<nav>
+  <header>
+    Math Magicians
+  </header>
+  <ul>
+    <li>
+      <a
+        href="/"
+        onClick={[Function]}
+      >
+        Home
+      </a>
+    </li>
+    <li>
+      <a
+        href="/calculator"
+        onClick={[Function]}
+      >
+        Calculator
+      </a>
+    </li>
+    <li>
+      <a
+        href="/quote"
+        onClick={[Function]}
+      >
+        Quote
+      </a>
+    </li>
+  </ul>
+</nav>
+`;
+
+exports[`components navbar.jsx should render correctly 2`] = `
+<div
+  className="qoute-page-container"
+>
+  Mathematics is not about numbers, equations, computations or algorithms; it is about understanding. -William Paul Thurston
+</div>
+`;
