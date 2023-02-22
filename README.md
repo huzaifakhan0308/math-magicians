@@ -18,7 +18,7 @@
 
 # 📖 Calculator <a name="about-project"></a>
 
-**Calculator**, in this project, i create simple Calculator using React.
+**Calculator** in this project, i create simple Calculator using React.
 
 ## 🛠 Built With <a name="built-with"></a>
 
