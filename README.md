@@ -36,7 +36,7 @@ HTML | CSS | JS | ES6 | React
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [LIVE DEMO UNAVAILABLE]
+- [Live link](https://math-magicians-46g7.onrender.com)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
